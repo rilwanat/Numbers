@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{B28511B3-B2BF-4507-9017-CDE367D74D25}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Algebra-Setup", "Algebra-Setup\Algebra-Setup.vdproj", "{8DDD778B-BB54-496D-B6EC-84853EB14642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28511B3-B2BF-4507-9017-CDE367D74D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28511B3-B2BF-4507-9017-CDE367D74D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28511B3-B2BF-4507-9017-CDE367D74D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28511B3-B2BF-4507-9017-CDE367D74D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDD778B-BB54-496D-B6EC-84853EB14642}.Debug|Any CPU.ActiveCfg = Debug
+		{8DDD778B-BB54-496D-B6EC-84853EB14642}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
